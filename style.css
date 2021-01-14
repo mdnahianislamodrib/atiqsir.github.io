@@ -1,0 +1,19 @@
+.title{
+    text-align: center;
+    
+}
+a{
+    color: White;
+    font-size: 30px;
+}
+button{
+    height: 70px;
+    width: 250px;
+    margin-top: 25px;
+}
+.join{
+    text-align: center;
+}
+.group{
+    text-align: center;
+}
